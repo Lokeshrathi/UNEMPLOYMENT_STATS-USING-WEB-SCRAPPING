@@ -8,9 +8,9 @@
 
 ## Data Visualisation
  - Insights on countries with different employment rate is displayed.
- ![](https://github.com/Lokeshrathi/UNEMPLOYMENT_STATS-USING-WEB-SCRAPPING/blob/master/Country.png)
+![](https://github.com/Lokeshrathi/UNEMPLOYMENT_STATS-USING-WEB-SCRAPPING/blob/master/Country.png)
  
  - Countries with high Employment rates were displayed.
- ![](https://github.com/Lokeshrathi/UNEMPLOYMENT_STATS-USING-WEB-SCRAPPING/blob/master/high.png)
+![](https://github.com/Lokeshrathi/UNEMPLOYMENT_STATS-USING-WEB-SCRAPPING/blob/master/high.png)
  
  
